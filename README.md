@@ -20,7 +20,7 @@
 
 ## 🛠 **Languages and Tools**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,react,kotlin,js,ts,html,css,sass,git,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,fastapi,flask,react,vite,django,nextjs,mongodb,postgres,redis,azure,tailwind,vscode,git,github,docker,linux,heroku,vercel,cloudflare" />
 </p>
 
 ---
