@@ -18,17 +18,22 @@
 
 ---
 
-## 🛠 **Tech Stack**
-#### **Languages & Frameworks**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)  
+## 🛠 **Languages and Tools**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,react,kotlin,js,ts,html,css,sass,git,docker,linux" />
+</p>
 
-#### **Databases & DevOps**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+---
+
+## 📊 **GitHub Stats**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=satyamlucifer&show_icons=true&theme=tokyonight&count_private=true&hide=issues" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamlucifer&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamlucifer&layout=compact&theme=tokyonight" width="48%" />
+</p>
 
 ---
 
@@ -37,13 +42,6 @@
 🔹 [**Rider App**](https://github.com/your-repo) - Delivery tracking with Google Maps integration  
 🔹 [**Purchase API**](https://github.com/your-repo) - Automated procurement & tracking system  
 
----
-
-## 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satyamlicifer&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamlucifer&theme=tokyonight" width="48%" />
-</p>
 
 ---
 
