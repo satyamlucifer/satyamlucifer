@@ -51,7 +51,7 @@
 ## Activity Overview
 - 🔭 I'm currently working on [Portfolio](https://github.com/satyamlucifer/developer-portfolio)
 - 🌱 I've also contributed to [Mid-Minds Blogs](https://github.com/satyamlucifer/Medium) and [Dicuss Meets](https://github.com/satyamlucifer/Discuss-App)
-- 💬 I focus mostly on commits (99%) with some pull requests (1%)
+- 💬 I focus mostly on commits (95%) with some pull requests (5%)
 
 ## Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=satyamlucifer&theme=github)
