@@ -54,10 +54,11 @@
 - 💬 I focus mostly on commits (99%) with some pull requests (1%)
 
 ## Contribution Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=satyamlucifer&theme=github)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=satyamlucifer&theme=github)
+
 
 ## Streak Stats
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=satyamlucifer)
+![GitHub Streak](https://streak-stats.demolab.com/?user=satyamlucifer)
 
 ## 🤝 **Let's Connect**
 💼 [Portfolio](https://yourportfolio.com) | 📩 [Email](mailto:satyamrajarya@gmail.com) | 🏢 [LinkedIn](https://www.linkedin.com/in/satyam-kumar-here)  
