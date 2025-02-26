@@ -49,8 +49,8 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=satyamlucifer&show_icons=true&theme=radical)
 
 ## Activity Overview
-- 🔭 I'm currently working on [developer-portfolio](https://github.com/satyamlucifer/developer-portfolio)
-- 🌱 I've also contributed to [react-native-sandbox](https://github.com/satyamlucifer/react-native-sandbox) and [github-portfolio](https://github.com/satyamlucifer/github-portfolio)
+- 🔭 I'm currently working on [Portfolio](https://github.com/satyamlucifer/developer-portfolio)
+- 🌱 I've also contributed to [Mid-Minds Blogs](https://github.com/satyamlucifer/Medium) and [Dicuss Meets](https://github.com/satyamlucifer/Discuss-App)
 - 💬 I focus mostly on commits (99%) with some pull requests (1%)
 
 ## Contribution Graph
