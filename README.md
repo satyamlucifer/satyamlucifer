@@ -45,5 +45,19 @@
 
 ---
 
+## My GitHub Contributions
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=satyamlucifer&show_icons=true&theme=radical)
+
+## Activity Overview
+- 🔭 I'm currently working on [developer-portfolio](https://github.com/satyamlucifer/developer-portfolio)
+- 🌱 I've also contributed to [react-native-sandbox](https://github.com/satyamlucifer/react-native-sandbox) and [github-portfolio](https://github.com/satyamlucifer/github-portfolio)
+- 💬 I focus mostly on commits (99%) with some pull requests (1%)
+
+## Contribution Graph
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=satyamlucifer&theme=github)
+
+## Streak Stats
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=satyamlucifer)
+
 ## 🤝 **Let's Connect**
 💼 [Portfolio](https://yourportfolio.com) | 📩 [Email](mailto:satyamrajarya@gmail.com) | 🏢 [LinkedIn](https://www.linkedin.com/in/satyam-kumar-here)  
